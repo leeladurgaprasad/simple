@@ -1,6 +1,6 @@
-package org.prasad.web;
+package org.prasad.web.controller;
 
-import org.prasad.web.Form;
+import org.prasad.web.model.Form;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.validation.BindingResult;

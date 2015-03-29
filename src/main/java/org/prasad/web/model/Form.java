@@ -1,4 +1,4 @@
-package org.prasad.web;
+package org.prasad.web.model;
 
 /**
  * Created by Leeladurga Prasad Gunti on 26-Mar-2015 14:59.
