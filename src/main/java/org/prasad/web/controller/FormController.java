@@ -56,9 +56,12 @@ public class FormController {
         return "showFormData";
     }
 
-	/**
-	   Method to generateData
-	**/
+    /**
+     * Method to genarate random data..
+     *
+     * @param size
+     * @return
+     */
     private static String generateData(int size){
 
         StringBuilder sb = new StringBuilder();
