@@ -15,9 +15,8 @@
 <body align="center">
 <table style="table-layout: fixed; width: 100%">
         <tr>
-            <td valign="top" width = "2%" align="top">Data Content :</td>
-            <td width ="20%" style="word-wrap: break-word">${content}</td>
-
+           <td valign="top" width = "2%" align="top">Data Content :</td>
+           <td width ="20%" style="word-wrap: break-word">${content}</td>
         </tr>
          <tr>
         <td>Data Size (KB) :</td>
