@@ -15,11 +15,11 @@
 <form:form method="post" commandName="form" action="/data/form/save">
     <table>
         <tr>
-            <td>Data Content :</td>
-            <td><form:textarea rows="30" cols="150" path="content"/></td>
+           <td>Data Content :</td>
+           <td><form:textarea rows="30" cols="150" path="content"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center" ><input type="submit" /></td>
+           <td colspan="2" align="center" ><input type="submit" /></td>
         </tr>
     </table>
 
