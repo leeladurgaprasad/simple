@@ -122,7 +122,7 @@
             <version>2.0</version>
         </dependency>
 
-        <!-- Jquery dependencies end -->
+        <!-- Jquery dependencies end changed-->
 
         <dependency>
             <groupId>junit</groupId>
